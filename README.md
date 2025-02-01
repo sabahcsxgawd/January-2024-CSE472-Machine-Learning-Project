@@ -1,4 +1,4 @@
-# CT<->MRI Image Translation Using ResNet and UNet
+# CT<->MRI Image Translation Using CycleGAN, ResNet and UNet as Generators and PatchGAN as Discriminator
 
 This project implements bidirectional translation between CT (Computed Tomography) and MRI (Magnetic Resonance Imaging) medical images using CycleGAN with ResNet and UNet architectures.
 
